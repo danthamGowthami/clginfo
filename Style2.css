@@ -1,0 +1,42 @@
+h1{
+      text-align: center;
+      background-color: palevioletred;
+      font-family: cursive;
+      
+    }
+    p{font-family: "lucida console","courier new","monospace";color: darkgreen}
+    h2{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: deeppink;
+    }
+  
+  
+  body1{background-image:url('Mjr.jpg');background-size: cover;}
+body{
+  font-family: cursive;
+  color: green;
+}
+h3{
+  color: purple;
+}
+ul{
+  background: skyblue;
+  padding: 20px;
+}
+ ul li{
+   list-style-position: inside;
+   list-style-image: leaf;
+ }
+ button {
+   background-color: #04AA6D;
+   border: none;
+   color: white;
+   padding: 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   border-radius: 50%;
+ }
+
